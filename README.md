@@ -35,6 +35,27 @@ are embedded on this prototype.
 <h5>2 Msg <h5>
  <img src="https://github.com/prathyush2510/Driver-Assistance-System/blob/main/images/msg.jpeg" height=400px>
  
+
+## Publication Details
+ 
+View here : 
+https://ieeexplore.ieee.org/document/9432361
+
+Details:
+"Driver Assistance System using Raspberry Pi and Haar Cascade Classifiers," 2021 5th International Conference on Intelligent Computing and Control Systems (ICICCS), 2021
+pp. 1729-1735, doi: 10.1109/ICICCS51141.2021.9432361.
+
+Authors:
+ <ul>
+  <li>V. Praveen Kumar</li>
+  <li>P. Aravind</li>
+  <li>S. Nachammai Devi Pooja</li>
+  <li>S. Prathyush</li>
+  <li>S. AngelDeborah</li>
+  <li>K. R. S. Chandran</li>
+ </ul>
+ 
+ 
  <h1>Steps to Run the Prototype</h1>
  1.Connect the Raspbery pi to Computer. (I used Remote Desktop Connection App in Windows 10)<br>
  2.Run the Python Program.(Main.py)<br>
